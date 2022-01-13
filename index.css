@@ -1,0 +1,11 @@
+button{
+    margin-top:20px;
+    border:1px solid black;
+    padding:15px 40px;
+    background-color:aqua;
+    color:white;
+    margin:5px;
+}
+p{
+    margin-left:100px;
+}
